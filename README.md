@@ -1,4 +1,4 @@
-# Kafka-YoutubeWatcher
+# Data-Streaming-App using Kafka
 
 ## Overview
 - ► Uses Python to fetch and process data from a static web API 
@@ -8,7 +8,7 @@
 
 ## ► Dependencies
 - confluent_kafka >= 1.8
-- python-dateutil >= 2.8
 - types-requests >= 2.27
+- python-dateutil >= 2.8
 - requests >= 2.25
 - fastavro >= 1.4
